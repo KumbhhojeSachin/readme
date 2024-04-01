@@ -1,13 +1,10 @@
- # <a href="https://www.linkedin.com/in/aman-kant-47341b208/">Aman Kant Sudhanshu</a> :smiley:
- 
- <a href="https://twitter.com/AmanKantSudhan1">
-  <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aman-kant-47341b208/">
+ # <a href="www.linkedin.com/in/sachin-kumbhoje/">Sachin Kumbhoje</a> :smiley:
+
+<a href="www.linkedin.com/in/sachin-kumbhoje/">
   <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/amanKantSudhanshu">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/KumbhhojeSachin/">
+  <img align="left" alt="Sachin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 
