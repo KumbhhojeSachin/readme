@@ -10,16 +10,16 @@
 
 <br/>
 <br/>
-JavaScript | HTML |CSS | ES6 |  Python |  Programming |  Web Development
+Java | HTML |CSS | GIT |  Jenkins |  Agile |  Swagger  | SQL  | Spring batch | Spring Boot
 
 ## About :sunglasses:
-B.tech 4th year Electronics and Communication Engineering student. Currently working as a Software Developer in Capgemini. Passionate about JavaScript, Web Development and open source. Also, have some experience in Web Development.Gaining experience in Java Full Stack Development.
+Java Developer with 2.5 years of experience in Banking Application Development, specializing in the design, development, and implementation of projects involving Java/J2EE for both client and server-side enterprise applications. Proficient in all phases of the SDLC, including requirements collection, estimation, analysis, design, development, and implementation. Conduct critical analysis of change requests and address defects and bugs efficiently. Adept at preparing comprehensive documentation for implemented modules, including code comments, software architecture, and flow diagrams. 
 
 ## Technologies :fire:
-- **JavaScript**.
-- **HTML**.
-- **CSS**.
-- **Bootstrap**.
+- **Java**.
+- **SQL**.
+- **Spring Boot**.
+- **Spring Batch**.
 
 
 **Languages and Tools:**  
@@ -32,7 +32,7 @@ B.tech 4th year Electronics and Communication Engineering student. Currently wor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/amanKantSudhanshu">
+<a href="https://github.com/KumbhhojeSachin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanKantSudhanshu&theme=radical&hide=glsl,JavaScript" />
 </a>
 
