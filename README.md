@@ -21,15 +21,6 @@ Java Developer with 2.5 years of experience in Banking Application Development, 
 - **Spring Boot**.
 - **Spring Batch**.
 
-
-<a href="https://github.com/KumbhhojeSachin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin Kumbhoje&theme=radical&hide=glsl,JavaScript" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sachin Kumbhoje &&show_icons=true&theme=radical&line_height=27&v=5" alt="Sachin's GitHub Stats" />
-   
-
-
 ##  Contact Me :speech_balloon:
  [![Linkedin Badge](https://img.shields.io/badge/-Sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sachin-kumbhoje/)](www.linkedin.com/in/sachin-kumbhoje/) [![Gmail Badge](https://img.shields.io/badge/-sachinkumbhoje0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sachinkumbhoje0@gmail.com)](sachinkumbhoje0@gmail.com)
 
